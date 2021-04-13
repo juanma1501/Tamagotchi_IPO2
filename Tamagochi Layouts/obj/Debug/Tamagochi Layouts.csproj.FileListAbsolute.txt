@@ -1,0 +1,21 @@
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\bin\Debug\Tamagochi Layouts.exe.config
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\bin\Debug\Tamagochi Layouts.exe
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\bin\Debug\Tamagochi Layouts.pdb
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\MainWindow.g.cs
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\App.g.cs
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts_MarkupCompile.cache
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts_MarkupCompile.lref
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\MainWindow.baml
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.g.resources
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi_Layouts.Properties.Resources.resources
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.exe
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.pdb
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Window1.g.cs
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Window1.baml
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\bin\Debug\WpfAnimatedGif.dll
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\bin\Debug\WpfAnimatedGif.xml
+C:\Users\usuario\source\repos\Tamagochi Layouts\Tamagochi Layouts\obj\Debug\Tamagochi Layouts.csproj.CopyComplete
