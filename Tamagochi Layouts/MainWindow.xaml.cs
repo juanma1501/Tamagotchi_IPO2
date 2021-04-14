@@ -537,7 +537,6 @@ namespace Tamagochi_Layouts
         private void finMuerte(object sender, EventArgs e)
         {
             MessageBox.Show("El Capitán América ha muerto. Tu puntuación es " + puntos, "Fin de partida", MessageBoxButton.OK);
-            insertBBDD();
             this.Close();
         }
 
@@ -551,6 +550,7 @@ namespace Tamagochi_Layouts
 
         private void cerrar_ventana(object sender, CancelEventArgs e)
         {
+            //Siempre que se apaga el programa guardamos el record en la base de datos
             insertBBDD();
 
         }
